@@ -2,6 +2,7 @@
 - 👀 I’m interested in sustainability and related technologies.
 - 🌱 I’m currently working on electrochemical CO2 reduction, which means storage of preferentially electrical energy into chemical energy.
 - 💞️ I’m looking to collaborate on these topics.
+- I've created a free VASP tutorial on [GitHub](https://github.com/FedeDat/VASP-tutorial) 
 - 📫 How to reach me: 
   (1) Email: federico.dattila@gmail.com
   (2) Twitter: @FedeDat
